@@ -1,0 +1,5 @@
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Externals/Xamarin.Auth/Xamarin.Auth.iOS/obj/unified/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Externals/Xamarin.Auth/Xamarin.Auth.iOS/bin/unified/Debug/Xamarin.Auth.iOS.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Externals/Xamarin.Auth/Xamarin.Auth.iOS/bin/unified/Debug/Xamarin.Auth.iOS.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Externals/Xamarin.Auth/Xamarin.Auth.iOS/obj/unified/Debug/Xamarin.Auth.iOS.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Externals/Xamarin.Auth/Xamarin.Auth.iOS/obj/unified/Debug/Xamarin.Auth.iOS.dll.mdb

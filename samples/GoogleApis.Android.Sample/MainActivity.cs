@@ -15,8 +15,8 @@ namespace Google.Apis.Android.Sample
 	[Activity(Label = "GoogleApis.Android.Sample", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		public const string ClientID = "Your Client ID";
-		public const string RedirectUrl = "Your redirect URL";
+		public const string ClientID = "982158770237.apps.googleusercontent.com";
+		public const string RedirectUrl = "http://groupmaster.net46.net/oauth2callback";
 
 		public static TasksService Service;
 		private readonly static GoogleAuthenticator Auth =
@@ -49,7 +49,7 @@ namespace Google.Apis.Android.Sample
 		private void ShowLogin()
 		{
 			this.showLogin = false;
-			Intent authIntent = Auth.GetUI (this);
+			Intent authIntent = (Intent)Auth.GetUI(this.BaseContext);
 			StartActivityForResult (authIntent, 1);
 		}
 

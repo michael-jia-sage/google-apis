@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="../samples/Google.Apis.iOS.Sample/Google.Apis.iOS.Sample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../samples/GoogleApis.Android.Sample/MainActivity.cs">
+    <Files>
+      <File FileName="Android/Google.Apis.Android/Apis/Authentication/GoogleAuthenticator.cs" Line="20" Column="7" />
+      <File FileName="Externals/google-api-dotnet-client/Src/GoogleApis/Apis/Upload/ResumableUpload.cs" Line="548" Column="5" />
+      <File FileName="../samples/GoogleApis.Android.Sample/MainActivity.cs" Line="18" Column="76" />
+      <File FileName="../samples/Google.Apis.iOS.Sample/AppDelegate.cs" Line="19" Column="74" />
+      <File FileName="../samples/Google.Apis.iOS.Sample/TaskListsViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

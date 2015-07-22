@@ -1,0 +1,35 @@
+# Version: 8.10.3.2 (8b265d6)
+# [first argument, ignore] # /Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/Google.Apis.iOS.Sample/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.3.2/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/Google.Apis.iOS.Sample/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--executable \
+	Google.Apis.iOS.Sample \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/Google.Apis.iOS.Sample/bin/iPhoneSimulator/Debug/Google.Apis.iOS.Sample.app \
+	-r \
+	/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/iOS/Google.Apis.iOS.Generated/bin/iPhoneSimulator/Debug/Google.Apis.iOS.Generated.dll \
+	-r \
+	/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/iOS/Google.Apis.iOS/bin/iPhoneSimulator/Debug/Google.Apis.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/jiazonggao/Downloads/xamarin.auth-1.2.3.1/lib/ios/Xamarin.Auth.iOS.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.4 \
+	--abi=i386 \
+	/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/Google.Apis.iOS.Sample/bin/iPhoneSimulator/Debug/Google.Apis.iOS.Sample.exe \

@@ -1,0 +1,15 @@
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/Google.Apis.Android.Generated.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.Generated.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.Generated.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.Generated.apk
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/android/bin/Google.Apis.Android.Generated.apk
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/R.cs.flag
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.Generated-Signed.apk
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/uploadflags.txt
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/Google.Apis.Android.Generated.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/obj/Debug/Google.Apis.Android.Generated.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Newtonsoft.Json.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Google.Apis.Android.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/src/Android/Google.Apis.Android.Generated/bin/Debug/Xamarin.Auth.dll

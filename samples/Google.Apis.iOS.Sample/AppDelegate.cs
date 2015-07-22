@@ -16,8 +16,8 @@ namespace Google.Apis.iOS.Sample
 	[Register("AppDelegate")]
 	public partial class AppDelegate : UIApplicationDelegate
 	{
-		public const string ClientID = "Your Client ID";
-		public const string RedirectUrl = "Your redirect URL";
+		public const string ClientID = "982158770237.apps.googleusercontent.com";
+		public const string RedirectUrl = "http://groupmaster.net46.net/oauth2callback";
 
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
@@ -40,7 +40,7 @@ namespace Google.Apis.iOS.Sample
 
 		private void ShowLogin()
 		{
-			UIViewController loginController = this.auth.GetUI();
+			UIViewController loginController = (UIViewController)this.auth.GetUI();
 			window.RootViewController = loginController;
 		}
 

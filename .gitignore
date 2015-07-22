@@ -1,6 +1,4 @@
 *.ide
-bin
-obj
 *.user
 *.suo
 *.dotSettings

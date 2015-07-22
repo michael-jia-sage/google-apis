@@ -540,8 +540,12 @@ namespace Google.Apis.Upload
 
             foreach (var property in properties)
             {
-                var attribute = property.GetCustomAttribute<Google.Apis.Util.RequestParameterAttribute>();
-
+//                var attribute = property.GetCustomAttribute<Google.Apis.Util.RequestParameterAttribute>();
+				var attribute = 
+					Google.Apis.Util.Utilities.
+					GetCustomAttribute<Google.Apis.Util.RequestParameterAttribute>
+					(property);
+				
                 if (attribute != null)
                 {
                     string name = attribute.Name ?? property.Name.ToLower();

@@ -3,8 +3,6 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{85F34F2E-F32F-4BC6-9A15-424BC856DE14}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
@@ -91,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Google.Apis.Android\Google.Apis.Android.csproj">
-      <Project>{436f36e5-b573-4a92-bfad-45bccd255ac8}</Project>
+      <Project>{436F36E5-B573-4A92-BFAD-45BCCD255AC8}</Project>
       <Name>Google.Apis.Android</Name>
     </ProjectReference>
   </ItemGroup>

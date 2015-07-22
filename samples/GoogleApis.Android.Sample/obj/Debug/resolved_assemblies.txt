@@ -1,0 +1,5 @@
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/GoogleApis.Android.Sample/obj/Debug/assemblies/Google.Apis.Android.Sample.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/GoogleApis.Android.Sample/obj/Debug/assemblies/Xamarin.Auth.Android.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/GoogleApis.Android.Sample/obj/Debug/assemblies/Google.Apis.Android.Generated.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/GoogleApis.Android.Sample/obj/Debug/assemblies/Google.Apis.Android.dll
+/Users/jiazonggao/WorkSpace/Mobile/google-apis/samples/GoogleApis.Android.Sample/obj/Debug/assemblies/Newtonsoft.Json.dll
